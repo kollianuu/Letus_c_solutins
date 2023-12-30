@@ -14,4 +14,6 @@ int main() {
     printf("\n Dear allowance: %.2f", dear_allowance);
     printf("\n House rent is: %.2f", house_rent);
     printf("\n Gross Salary: %.2f", gross_salary);
+
+    return 0;
 }
