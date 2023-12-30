@@ -1,3 +1,4 @@
+//Kolli Anusha(CH.EN.U4CYS21030)
 #include<stdio.h>
 int main(){
     int a,b,c;
